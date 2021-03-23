@@ -1,0 +1,238 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "stackoverflow",
+    "canonical": "https://raw.githubusercontent.com/ahmedsajid/resume/main/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  },
+  "basics": {
+    "name": "Ahmed Sajid",
+    "label": "DevOps Engineer | Manager",
+    "picture": "",
+    "email": "ahmed4343@hotmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Manager and a DevOps Engineer with 5 years of experience in Automation around deployment and management of Web Servers, Mail Systems, High Perforamnce Computer Clusters and Blockchain.",
+    "location": {
+      "countryCode": "CA",
+      "address": "Whitby"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ahsajid",
+        "url": "https://www.linkedin.com/in/ahsajid"
+      },
+      {
+        "network": "GitHub",
+        "username": "ahmedsajid",
+        "url": "https://github.com/ahmedsajid"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SecureKey Technologies Inc",
+      "endDate": "",
+      "highlights": [],
+      "position": "Manager/Team Lead",
+      "startDate": "2019-05-31",
+      "summary": "- Started working as L3 Support Team Lead getting promoted to Manager role within few months.\n- Part of planning team for releases and consortium wide upgrades.\n- Technical coordination with partners including Financial Institutions and Government entities.\n- Write and maintain Infrastructure as a Code repositories for automated deployments.",
+      "website": "https://securekey.com"
+    },
+    {
+      "company": "SecureKey Technologies Inc",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "position": "DevOps Engineer",
+      "startDate": "2016-10-31",
+      "summary": "- Write and maintain Infrastructure as a Code repositories for automated deployments.\n- Build and ship container images.\n-Escalation point for Operations team for L2/L3 Support.\n- Implementation/support of production changes in out-of-hours maintenance windows.",
+      "website": "https://securekey.com"
+    },
+    {
+      "company": "SecureKey Technologies Inc",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "position": "Systems Administrator",
+      "startDate": "2016-06-06",
+      "summary": "- Day-to-Day operations and maintenance of the server infrastructure supporting cloud services with a focus on Red Hat Linux, JAVA application servers, MySQL and VMWare ESX.\n- Implementation of production changes in out-of-hours maintenance windows\n- On-call for critical incident support on a rotational basis\n- Provide input to post implementation reviews and RCAs\n- Management of issues using an ITIL-compliant ticketing system\n- Vendor Management ",
+      "website": "https://securekey.com"
+    },
+    {
+      "company": "Integra Technologies FZE",
+      "endDate": "2016-03-31",
+      "highlights": [],
+      "position": "Linux Systems Engineer",
+      "startDate": "2015-08-31",
+      "summary": "- Install and provide support for all Red Hat products such as Red Hat Enterprise Linux, Red Hat Satellite, Red Hat High Availability Clusters.\n- Meet with potential clients to discuss their IT enterprise needs.\n- Provide 24/7 on-call support to clients on daily basis.\n- Perform remote troubleshooting to effectively resolve technical issues faced by the clients. \n- Write project specification and technical documentation. ",
+      "website": "https://www.integrauae.com"
+    },
+    {
+      "company": "Science and Technology Facilities Council",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "position": "Linux System Administrator",
+      "startDate": "2012-07-31",
+      "summary": "- Administer CPU and GPU RHEL based compute clusters for UK academia.\n- Handle complex support queries on daily basis.\n- Liaise with vendors for hardware replacements.\n- Provision physical and virtual machines for production.\n- Work as part of a team administering large production environment.",
+      "website": "https://stfc.ukri.org"
+    },
+    {
+      "company": "Science and Technology Facilities Council",
+      "endDate": "2011-08-31",
+      "highlights": [],
+      "position": "Scientific Computing Support",
+      "startDate": "2010-08-31",
+      "summary": "- Handle user support queries.\n- Provide support for video conference hardware and software.\n- Perform hardware diagnostics and repair faulty components.\n- Install, upgrade and maintain Drupal based web servers for UK and European projects. \n- Certificate Authority Operator for UK E-Science CA.",
+      "website": "https://stfc.ukri.org"
+    },
+    {
+      "company": "Coventry University",
+      "endDate": "2010-05-31",
+      "highlights": [],
+      "position": "IT Support Assistant",
+      "startDate": "2010-03-01",
+      "summary": "- Helping students and lecturers with IT queries.\n- Installing and maintaining IT equipment for University’s Faculty of Business, Environment and Society.\n- Performing Hardware diagnostics and repair.",
+      "website": "https://www.coventry.ac.uk"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Coventry University",
+      "area": "Communications Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2008-09-01",
+      "endDate": "2012-07-01",
+      "gpa": "1st Class",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": [
+        "Ansible",
+        "Terraform"      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "DigitalOcean"
+      ]
+    },
+    {
+      "name": "Container",
+      "level": "",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": [
+        "BASH",
+        "Python"
+      ]
+    },
+    {
+      "name": "CI",
+      "level": "",
+      "keywords": [
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Linux Operating System",
+      "level": "",
+      "keywords": [
+        "RHEL",
+        "CentOS",
+        "Ubuntu Desktop",
+        "Alpine Linux"
+      ]
+    },
+    {
+      "name": "Web Server",
+      "level": "",
+      "keywords": [
+        "NGiNX",
+        "Apache HTTPD"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": [
+        "OpenSSL",
+        "PKI",
+        "SSL/TLS Certificates"
+      ]
+    },
+    {
+      "name": "Collaboration Tools",
+      "level": "",
+      "keywords": [
+        "JIRA",
+        "Confluence"
+      ]
+    },
+    {
+      "name": "Logging & Monitoring",
+      "level": "",
+      "keywords": [
+        "Graylog",
+        "Splunk",
+        "Site24x7",
+        "Sensu",
+        "Nagios/Icinga",
+        "LibreNMS"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "",
+      "keywords": [
+        "Hyperledger Fabric"
+      ]
+    },
+    {
+      "name": "Build Repositories",
+      "level": "",
+      "keywords": [
+        "Jfrog Artifactory",
+        "Nexus"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source"
+    }
+  ],
+  "references": []
+}
