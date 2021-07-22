@@ -4,15 +4,15 @@
     "theme": "stackoverflow",
     "canonical": "https://raw.githubusercontent.com/ahmedsajid/resume/main/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2021-03-23T12:55:00"
+    "lastModified": "2021-07-22T11:43:00"
   },
   "basics": {
     "name": "Ahmed Sajid",
-    "label": "DevOps Engineer | Manager",
+    "label": "DevOps | CKA | Open Source",
     "picture": "",
     "email": "ahmed4343@hotmail.com",
     "phone": "",
-    "website": "",
+    "website": "https://ahmedsajid.github.io",
     "summary": "Manager and a DevOps Engineer with 5 years of experience in Automation around deployment and management of Web Servers, Mail Systems, High Perforamnce Computer Clusters and Blockchain.",
     "location": {
       "countryCode": "CA",
@@ -47,7 +47,7 @@
       "highlights": [],
       "position": "DevOps Engineer",
       "startDate": "2016-10-31",
-      "summary": "- Write and maintain Infrastructure as a Code repositories for automated deployments.\n- Build and ship container images.\n-Escalation point for Operations team for L2/L3 Support.\n- Implementation/support of production changes in out-of-hours maintenance windows.",
+      "summary": "- Write and maintain Infrastructure as a Code repositories for automated deployments.\n- Build and ship container images.\n- Escalation point for Operations team for L2/L3 Support.\n- Implementation/support of production changes in out-of-hours maintenance windows.",
       "website": "https://securekey.com"
     },
     {
@@ -116,13 +116,16 @@
       "level": "",
       "keywords": [
         "Ansible",
-        "Terraform"      ]
+        "Terraform"
+      ]
     },
     {
       "name": "Version Control",
       "level": "",
       "keywords": [
         "Git",
+        "GitHub",
+        "GitLab",
         "SVN"
       ]
     },
@@ -138,7 +141,8 @@
       "name": "Container",
       "level": "",
       "keywords": [
-        "Docker"
+        "Docker",
+        "Kubernetes"
       ]
     },
     {
@@ -219,20 +223,31 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Urdu",
-      "fluency": "Native Speaker"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
       "name": "Open Source"
     }
   ],
-  "references": []
+  "references": [],
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "date": "2021-07-22",
+      "url": "https://www.credly.com/badges/1a3e5db4-c9af-417e-ad44-95602997026c",
+      "issuer": "CNCF"
+    },
+    {
+      "name": "Red Hat Certified Engineer",
+      "date": "2014-11-07",
+      "url": "https://rhtapps.redhat.com/verify?certId=140-045-980",
+      "issuer": "Red Hat"
+    },
+    {
+      "name": "Red Hat Certified Systems Administrator",
+      "date": "2014-11-07",
+      "url": "https://rhtapps.redhat.com/verify?certId=140-045-980",
+      "issuer": "Red Hat"
+    }
+  ]
 }
