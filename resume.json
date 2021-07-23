@@ -15,8 +15,9 @@
     "website": "https://ahmedsajid.github.io",
     "summary": "Manager and a DevOps Engineer with 5 years of experience in Automation around deployment and management of Web Servers, Mail Systems, High Perforamnce Computer Clusters and Blockchain.",
     "location": {
+      "city": "Whitby",
       "countryCode": "CA",
-      "address": "Whitby"
+      "region": "Ontario"
     },
     "profiles": [
       {
