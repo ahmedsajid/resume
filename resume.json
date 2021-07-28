@@ -3,17 +3,17 @@
   "meta": {
     "theme": "stackoverflow",
     "canonical": "https://raw.githubusercontent.com/ahmedsajid/resume/main/resume.json",
-    "version": "v1.1.1",
-    "lastModified": "2021-07-26T09:53:00"
+    "version": "v1.1.2",
+    "lastModified": "2021-07-28T13:24:00"
   },
   "basics": {
     "name": "Ahmed Sajid",
-    "label": "DevOps | CKA & CKAD | Open Source",
+    "label": "DevOps | CKA & CKAD",
     "picture": "",
     "email": "ahmed4343@hotmail.com",
     "phone": "",
     "website": "https://ahmedsajid.github.io",
-    "summary": "Manager and a DevOps Engineer with 5 years of experience in Automation around deployment and management of Web Servers, Mail Systems, High Perforamnce Computer Clusters and Blockchain.",
+    "summary": "Certified Kubernetes Application Developer, Certified Kuberenetes Administrator and Red Hat Certified Engineer with 9 years of experience in IT industry, working with Web Servers, Mail Systems, High Perforamnce Computer Clusters and Blockchain, with passion for automation and Open Source.",
     "location": {
       "city": "Toronto",
       "countryCode": "CA",
@@ -34,67 +34,71 @@
   },
   "work": [
     {
-      "company": "SecureKey Technologies Inc",
-      "endDate": "",
-      "highlights": [],
-      "position": "Manager/Team Lead",
+      "summary": "SecureKey is an Identity and authentication provider with Canadian Federal and Provincial Governments, other Fintechs as clients and partners.\nStarted working as L3 Support Team Lead getting promoted to Manager role within few months.",
+      "position": "Manager, Verified.Me Support",
       "startDate": "2019-05-31",
-      "summary": "- Started working as L3 Support Team Lead getting promoted to Manager role within few months.\n- Part of planning team for releases and consortium wide upgrades.\n- Technical coordination with partners including Financial Institutions and Government entities.\n- Write and maintain Infrastructure as a Code repositories for automated deployments.",
-      "website": "https://securekey.com"
+      "highlights": [
+        "Part of planning team for releases and consortium wide upgrades.",
+        "Technical coordination with partners including Financial Institutions and Government entities.",
+        "Wrote and maintained Infrastructure as a Code repositories for automated deployments."
+      ],
+      "name": "SecureKey Technologies Inc"
     },
     {
-      "company": "SecureKey Technologies Inc",
       "endDate": "2019-05-31",
-      "highlights": [],
+      "summary": "SecureKey is an Identity and authentication provider with Canadian Federal and Provincial Governments, other Fintechs as clients and partners.\nWrote Infrastructure-as-Code automating day-to-day tasks as well as writing deployments for SecureKey's Blockchain based identity sharing platform, Verified.Me. Worked as a key engineer on the project coming up with deployments for several SecureKey provided services.",
       "position": "DevOps Engineer",
       "startDate": "2016-10-31",
-      "summary": "- Write and maintain Infrastructure as a Code repositories for automated deployments.\n- Build and ship container images.\n- Escalation point for Operations team for L2/L3 Support.\n- Implementation/support of production changes in out-of-hours maintenance windows.",
-      "website": "https://securekey.com"
+      "highlights": [
+        "Wrote and maintained Infrastructure as a Code repositories for automated deployments.",
+        "Built and ship container images.",
+        "Escalation point for Operations team for L2/L3 Support.",
+        "Implementated and also supported production changes in out-of-hours maintenance windows."
+      ],
+      "name": "SecureKey Technologies Inc"
     },
     {
-      "company": "SecureKey Technologies Inc",
       "endDate": "2016-10-31",
-      "highlights": [],
+      "summary": "SecureKey is an Identity and authentication provider with Canadian Federal and Provincial Governments, other Fintechs as clients and partners.\nJoined as a Systems Administrator Supporting SecureKey's Government Sign-in by Verified.Me Service. After recognizing my skills and passion for automation, was offered the role of DevOps Engineer and joined the Engineering team after 4 months being part of Production Support Team.",
       "position": "Systems Administrator",
       "startDate": "2016-06-06",
-      "summary": "- Day-to-Day operations and maintenance of the server infrastructure supporting cloud services with a focus on Red Hat Linux, JAVA application servers, MySQL and VMWare ESX.\n- Implementation of production changes in out-of-hours maintenance windows\n- On-call for critical incident support on a rotational basis\n- Provide input to post implementation reviews and RCAs\n- Management of issues using an ITIL-compliant ticketing system\n- Vendor Management ",
-      "website": "https://securekey.com"
+      "highlights": [
+        "Day-to-Day operations and maintenance of the server infrastructure supporting cloud services with a focus on Red Hat Linux, JAVA application servers, MySQL and VMWare ESX.",
+        "Implemented production changes in out-of-hours maintenance windows",
+        "On-call for critical incident support on a rotational basis",
+        "Provided input to post implementation reviews and RCAs",
+        "Managed of issues using an ITIL-compliant ticketing system",
+        "Vendor Management"
+      ],
+      "name": "SecureKey Technologies Inc"
     },
     {
-      "company": "Integra Technologies FZE",
       "endDate": "2016-03-31",
-      "highlights": [],
+      "summary": "Red Hat Advanced Partner and AWS Standard Consulting Partner that focuses on Linux based solutions for enterprises.",
       "position": "Linux Systems Engineer",
       "startDate": "2015-08-31",
-      "summary": "- Install and provide support for all Red Hat products such as Red Hat Enterprise Linux, Red Hat Satellite, Red Hat High Availability Clusters.\n- Meet with potential clients to discuss their IT enterprise needs.\n- Provide 24/7 on-call support to clients on daily basis.\n- Perform remote troubleshooting to effectively resolve technical issues faced by the clients. \n- Write project specification and technical documentation. ",
-      "website": "https://www.integrauae.com"
+      "highlights": [
+        "Installed and provided support for all Red Hat products such as Red Hat Enterprise Linux, Red Hat Satellite, Red Hat High Availability Clusters.",
+        "Meet with potential clients to discuss their IT enterprise needs.",
+        "Provided 24/7 on-call support to clients on daily basis.",
+        "Performed remote troubleshooting to effectively resolve technical issues faced by the clients.",
+        "Wrote project specification and technical documentation."
+      ],
+      "name": "Integra Technologies FZE"
     },
     {
-      "company": "Science and Technology Facilities Council",
       "endDate": "2015-07-31",
-      "highlights": [],
       "position": "Linux System Administrator",
       "startDate": "2012-07-31",
-      "summary": "- Administer CPU and GPU RHEL based compute clusters for UK academia.\n- Handle complex support queries on daily basis.\n- Liaise with vendors for hardware replacements.\n- Provision physical and virtual machines for production.\n- Work as part of a team administering large production environment.",
-      "website": "https://stfc.ukri.org"
-    },
-    {
-      "company": "Science and Technology Facilities Council",
-      "endDate": "2011-08-31",
-      "highlights": [],
-      "position": "Scientific Computing Support",
-      "startDate": "2010-08-31",
-      "summary": "- Handle user support queries.\n- Provide support for video conference hardware and software.\n- Perform hardware diagnostics and repair faulty components.\n- Install, upgrade and maintain Drupal based web servers for UK and European projects. \n- Certificate Authority Operator for UK E-Science CA.",
-      "website": "https://stfc.ukri.org"
-    },
-    {
-      "company": "Coventry University",
-      "endDate": "2010-05-31",
-      "highlights": [],
-      "position": "IT Support Assistant",
-      "startDate": "2010-03-01",
-      "summary": "- Helping students and lecturers with IT queries.\n- Installing and maintaining IT equipment for University’s Faculty of Business, Environment and Society.\n- Performing Hardware diagnostics and repair.",
-      "website": "https://www.coventry.ac.uk"
+      "summary": "One of Europe’s largest multidisciplinary research organisations.",
+      "highlights": [
+        "Administered CPU and GPU RHEL based compute clusters for UK academia.",
+        "Handled complex support queries on daily basis.",
+        "Liaised with vendors for hardware replacements.",
+        "Provisioned physical and virtual machines for production.",
+        "Worked as part of a team administering large production environment."
+      ],
+      "name": "Science and Technology Facilities Council"
     }
   ],
   "volunteer": [],
@@ -104,9 +108,7 @@
       "area": "Communications Engineering",
       "studyType": "Bachelor of Engineering",
       "startDate": "2008-09-01",
-      "endDate": "2012-07-01",
-      "gpa": "1st Class",
-      "courses": []
+      "endDate": "2012-07-01"
     }
   ],
   "awards": [],
@@ -202,10 +204,10 @@
       "keywords": [
         "Graylog",
         "Splunk",
-        "Site24x7",
         "Sensu",
         "Nagios/Icinga",
-        "LibreNMS"
+        "LibreNMS",
+        "Site24x7"
       ]
     },
     {
@@ -224,36 +226,25 @@
       ]
     }
   ],
-  "languages": [],
-  "interests": [
-    {
-      "name": "Open Source"
-    }
-  ],
-  "references": [],
   "certificates": [
     {
       "name": "Certified Kubernetes Administrator",
       "date": "2021-07-22",
-      "url": "https://www.credly.com/badges/1a3e5db4-c9af-417e-ad44-95602997026c",
       "issuer": "CNCF"
     },
     {
       "name": "Certified Kubernetes Application Developer",
       "date": "2021-07-22",
-      "url": "https://www.credly.com/badges/bb8d833d-06c1-46e6-b654-514a57318cfc",
       "issuer": "CNCF"
     },
     {
       "name": "Red Hat Certified Engineer",
       "date": "2014-11-07",
-      "url": "https://rhtapps.redhat.com/verify?certId=140-045-980",
       "issuer": "Red Hat"
     },
     {
       "name": "Red Hat Certified Systems Administrator",
       "date": "2014-11-07",
-      "url": "https://rhtapps.redhat.com/verify?certId=140-045-980",
       "issuer": "Red Hat"
     }
   ]
