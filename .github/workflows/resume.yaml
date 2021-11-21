@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '14'
           check-latest: true
-      - run: sudo npm install -g resume-cli
+      - run: npm install -g resume-cli
       - run: resume validate
       - run: npm install jsonresume-theme-stackoverflow
       - run: resume export -r ../../resume.json index.html && ls
